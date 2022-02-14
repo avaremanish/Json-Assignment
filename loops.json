@@ -1,0 +1,29 @@
+
+//for
+
+var person = {
+    fname: "Guvi",
+    lname: "Zen",
+    age: 24
+ }; 
+ for (let x in person) {
+    console.log(x + ": "+ person[x])
+ }
+
+ //Forin
+ var person = {
+    fname: "Guvi",
+    lname: "Zen",
+    age: 24
+ }; 
+ for (let x in person) {
+    console.log(x + ": "+ person[x])
+ }
+ 
+ //forEach
+
+ var names = ["Ram", "sham", "Ramesh", "lucky", "soni"];
+names.forEach(function1);
+function function1(currentValue, index) {
+   console.log("Index in array is: "+index + " ::  Value is: "+currentValue);
+}

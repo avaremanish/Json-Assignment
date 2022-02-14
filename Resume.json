@@ -1,0 +1,17 @@
+[
+
+{
+         "name": "Manish kumar",
+         "Gender" : "Male",
+         "Age":24,
+         "Degree":"B.E",
+         "Branch":"Electronics & Telecommunications",
+         "place":"pune"
+},
+{
+    "schooling":"Maharashtra",
+    "10+2":"Telangana"
+    
+}
+
+]
